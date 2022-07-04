@@ -1,10 +1,11 @@
 ![HumBug](https://raw.githubusercontent.com/ikiskin/UNIQ-deepmind/master/data/pics/humbug-logo.png)
-# Mosquito detection tutorial task list:
+# Mosquito detection `scikit-learn` tutorial task list:
 
 Please find in this document a list of questions designed to get you to think about the problem at hand, and to help you log how changing components of the whole pipeline affect the overall performance of the system. The questions are designed to be covered in order, and are fully contained within the original notebook. They are numbered and repeated here for your convenience. Please start a new document using your editor of choice (Markdown, Google Doc, Overleaf, Word, anything else you like), and write down your responses to the following questions below. Where you are asked to complete the code, simply note down which models you use (or copy paste your completed cell from the notebook). 
 
 It should be noted that you can go into great depth into any of these particular questions: you are free to choose which points interest you more and are worth exploring in depth to your liking.
 
+---
 
 **1. Visualise the difference between a data sample (or the full training dataset) before and after applying the StandardScaler transform. What does it do? You may use `plot.imshow()` to help you with visualisation. You may also access the variables stored by `StandardScaler` with `scaler.mean_` and `scaler.var_`**
 
