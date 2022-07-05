@@ -13,5 +13,8 @@ Please find in this document a list of tasks for you to explore. There is no for
 * What can you conclude about the dataset and modelling variability based on these results?
 
 ### Extension
-* Implement a more sophisticated model such as the SVM or RF as referenced in the notebook and repeat the task above
+* Walk through a tutorial on the operation of one (or more) of the following:
+  * [Support Vector Machines](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html)
+  * [Random Forests](https://jakevdp.github.io/PythonDataScienceHandbook/05.08-random-forests.html)
+* Implement a more sophisticated model such as the SVM or RF as referenced and repeat the task above.
 ---
