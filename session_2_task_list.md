@@ -9,6 +9,8 @@ It should be noted that you can go into great depth into any of these particular
 
 **1. Visualise the difference between a data sample (or the full training dataset) before and after applying the StandardScaler transform. What does it do? You may use `plot.imshow()` to help you with visualisation. You may also access the variables stored by `StandardScaler` with `scaler.mean_` and `scaler.var_`**
 
+Please also consider on which dataset(s) (e.g. Train/Test) you will want to _compute_ the transform, and on which you will want to _apply_ the transform.
+
 
 ---
 
