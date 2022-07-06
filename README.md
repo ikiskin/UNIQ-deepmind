@@ -1,5 +1,5 @@
 # UNIQ-deepmind
-
+## Overview
 Welcome to the [DeepMind UNIQ internship training](https://www.ox.ac.uk/admissions/graduate/access/uniq-plus) course. This repository was made to introduce basic concepts within the powerful `scikit-learn` framework. It is divided into two modules in the form of colab notebooks:
 1. [Introducing Scikit Learn](./colab/Introducing-Scikit-Learn-UNIQ.ipynb) from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
     * Data Representation
@@ -15,6 +15,7 @@ Welcome to the [DeepMind UNIQ internship training](https://www.ox.ac.uk/admissio
     * Model instantiation and prediction
     * Model performance metrics
 
+## Task lists
 The task lists for each session are found here:
 * [Task 1](./session_1_task_list.md)
 * [Task 2](./session_2_task_list.md)
