@@ -1,4 +1,6 @@
-# UNIQ-deepmind
+# [<img src="./data/pics/dm.svg" width="35" />](./data/pics/dm.svg) UNIQ-deepmind 
+
+
 ## Overview
 Welcome to the [DeepMind UNIQ internship training](https://www.ox.ac.uk/admissions/graduate/access/uniq-plus) course. This repository was made to introduce basic concepts within the powerful `scikit-learn` framework. It is divided into two modules in the form of colab notebooks:
 1. [Introducing Scikit Learn](./colab/Introducing-Scikit-Learn-UNIQ.ipynb) from the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -8,7 +10,7 @@ Welcome to the [DeepMind UNIQ internship training](https://www.ox.ac.uk/admissio
     * Unsupervised toy example
     * Hand-written digits toy example
 
-2. A [colab notebook](./colab/UNIQ_scikit_learn_pt_2.ipynb) outlining a use case of `scikit-learn` in a real-world data science problem.
+2. A [colab notebook](./colab/UNIQ_scikit_learn_pt_2.ipynb) outlining a use case of `scikit-learn` in a real-world data science problem encountered as part of the [HumBug project](https://humbug.ox.ac.uk/).
     * Data input processing
     * Dataset creation
     * Data feature extraction and pre-processing
